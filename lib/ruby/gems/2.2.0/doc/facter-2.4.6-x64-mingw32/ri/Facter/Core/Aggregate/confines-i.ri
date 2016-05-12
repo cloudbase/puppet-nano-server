@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"confines:ETI"%Facter::Core::Aggregate#confines;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@!attribute [r] confines;To:RDoc::Markup::Verbatim;	[I"M@return [Array<Facter::Core::Confine>] An array of confines restricting
+;TI"#  this to a specific platform
+;TI" @see Facter::Core::Suitable;T:@format0:
+@fileI"!lib/facter/core/aggregate.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Facter::Core::Aggregate;TcRDoc::NormalClass0

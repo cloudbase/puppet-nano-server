@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"unmanaged:ETI" Puppet::Property::unmanaged;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"`@todo Figure out what this is used for. Can not find any logic in the puppet code base that;To:RDoc::Markup::Verbatim;	[I"%reads or writes this attribute.
+;T:@format0o;
+;	[I"??? Probably Unused;T:
+@fileI"lib/puppet/property.rb;T:0@omit_headings_from_table_of_contents_below0T@I"Puppet::Property;TcRDoc::NormalClass0

@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"command_block:ETI"Pry::Command#command_block;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"EThe block we pass *into* a command so long as `:takes_block` is ;TI"not equal to `false` ;TI"@example;To:RDoc::Markup::Verbatim;	[I"my-command | do
+;TI"  puts "block content"
+;TI"end;T:@format0:
+@fileI"lib/pry/command.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Pry::Command;TcRDoc::NormalClass0

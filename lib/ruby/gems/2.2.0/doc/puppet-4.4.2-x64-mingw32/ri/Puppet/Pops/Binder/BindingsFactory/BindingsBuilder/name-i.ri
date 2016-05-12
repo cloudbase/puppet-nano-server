@@ -1,0 +1,4 @@
+U:RDoc::AnyMethod[iI"	name:EFI"@Puppet::Pops::Binder::BindingsFactory::BindingsBuilder#name;TF:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"#Sets the name of the binding. ;TI",@param name [String] the name to bind. ;TI"@api public;T:
+@fileI"/lib/puppet/pops/binder/bindings_factory.rb;T:0@omit_headings_from_table_of_contents_below000[[I"
+named;To;;	[o;
+;	[I"@Same as {#name}, but reads better in certain combinations. ;TI"@api public;T;@;0I"(name);T@FI"BindingsBuilder;TcRDoc::NormalClass00

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"options:ETI"$Net::SSH::Proxy::SOCKS5#options;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"/The map of options given at initialization;T:
+@fileI" lib/net/ssh/proxy/socks5.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Net::SSH::Proxy::SOCKS5;TcRDoc::NormalClass0

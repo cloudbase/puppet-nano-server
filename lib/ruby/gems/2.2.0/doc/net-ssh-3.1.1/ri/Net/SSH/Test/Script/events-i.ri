@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"events:ETI""Net::SSH::Test::Script#events;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"LThe list of scripted events. These will be Net::SSH::Test::LocalPacket ;TI"0and Net::SSH::Test::RemotePacket instances.;T:
+@fileI"lib/net/ssh/test/script.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Net::SSH::Test::Script;TcRDoc::NormalClass0

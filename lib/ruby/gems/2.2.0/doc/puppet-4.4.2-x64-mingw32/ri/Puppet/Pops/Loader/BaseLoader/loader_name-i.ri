@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"loader_name:ETI"1Puppet::Pops::Loader::BaseLoader#loader_name;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"CAn internal name used for debugging and error message purposes;T:
+@fileI"*lib/puppet/pops/loader/base_loader.rb;T:0@omit_headings_from_table_of_contents_below0F@I"%Puppet::Pops::Loader::BaseLoader;TcRDoc::NormalClass0

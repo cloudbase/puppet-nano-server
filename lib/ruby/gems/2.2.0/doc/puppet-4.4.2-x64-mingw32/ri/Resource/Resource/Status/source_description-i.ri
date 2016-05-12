@@ -1,0 +1,7 @@
+U:RDoc::Attr[iI"source_description:ETI"2Resource::Resource::Status#source_description;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"'@!attribute [r] source_description;To:RDoc::Markup::Verbatim;	[
+I"N@return [String] The textual description of the path to `@real_resource`
+;TI"B  based on the containing structures. This is in contrast to
+;TI"K  `@containment_path` which is a list of containment path components.
+;TI"@example
+;TI"F  status.source_description #=> "/Stage[main]/Myclass/Exec[date]";T:@format0:
+@fileI""lib/puppet/resource/status.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Resource::Resource::Status;TcRDoc::NormalClass0

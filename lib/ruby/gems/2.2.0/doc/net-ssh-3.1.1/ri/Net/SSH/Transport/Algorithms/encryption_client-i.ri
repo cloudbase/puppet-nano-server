@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"encryption_client:ETI"6Net::SSH::Transport::Algorithms#encryption_client;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"NThe type of the cipher to use to encrypt packets sent from the client to ;TI"the server.;T:
+@fileI"(lib/net/ssh/transport/algorithms.rb;T:0@omit_headings_from_table_of_contents_below0F@I"$Net::SSH::Transport::Algorithms;TcRDoc::NormalClass0

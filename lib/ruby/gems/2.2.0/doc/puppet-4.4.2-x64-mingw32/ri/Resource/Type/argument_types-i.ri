@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"argument_types:ETI""Resource::Type#argument_types;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"<Map from argument (aka parameter) names to Puppet Type ;TI"O@return [Hash<Symbol, Puppet::Pops::Types::PAnyType] map from name to type;T:
+@fileI" lib/puppet/resource/type.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Resource::Type;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"remote_maximum_window_size:ETI"=Net::SSH::Connection::Channel#remote_maximum_window_size;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"HThe maximum amount of data that the remote end of this channel can ;TI".receive. This is a total, not per-packet.;T:
+@fileI"&lib/net/ssh/connection/channel.rb;T:0@omit_headings_from_table_of_contents_below0F@I""Net::SSH::Connection::Channel;TcRDoc::NormalClass0

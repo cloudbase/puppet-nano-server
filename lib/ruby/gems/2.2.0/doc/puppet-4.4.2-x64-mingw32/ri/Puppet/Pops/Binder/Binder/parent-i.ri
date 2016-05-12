@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"parent:ETI"(Puppet::Pops::Binder::Binder#parent;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"A parent Binder or nil ;TI"@api private;T:
+@fileI"%lib/puppet/pops/binder/binder.rb;T:0@omit_headings_from_table_of_contents_below0F@I"!Puppet::Pops::Binder::Binder;TcRDoc::NormalClass0

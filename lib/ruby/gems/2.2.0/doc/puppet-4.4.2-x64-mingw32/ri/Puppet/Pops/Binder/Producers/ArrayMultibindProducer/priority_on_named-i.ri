@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"priority_on_named:ETI"NPuppet::Pops::Binder::Producers::ArrayMultibindProducer#priority_on_named;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"U@return [Boolean] whether priority should be considered for named contributions ;TI"@api public;T:
+@fileI"(lib/puppet/pops/binder/producers.rb;T:0@omit_headings_from_table_of_contents_below0F@I"<Puppet::Pops::Binder::Producers::ArrayMultibindProducer;TcRDoc::NormalClass0

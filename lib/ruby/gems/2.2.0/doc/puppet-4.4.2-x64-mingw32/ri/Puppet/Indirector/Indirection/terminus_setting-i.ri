@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"terminus_setting:ETI"5Puppet::Indirector::Indirection#terminus_setting;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"3This can be used to select the terminus class.;T:
+@fileI")lib/puppet/indirector/indirection.rb;T:0@omit_headings_from_table_of_contents_below0F@I"$Puppet::Indirector::Indirection;TcRDoc::NormalClass0

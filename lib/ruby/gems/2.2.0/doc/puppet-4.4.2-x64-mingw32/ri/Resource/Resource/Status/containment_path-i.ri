@@ -1,0 +1,7 @@
+U:RDoc::Attr[iI"containment_path:ETI"0Resource::Resource::Status#containment_path;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"%@!attribute [r] containment_path;To:RDoc::Markup::Verbatim;	[I"H@return [Array<String>] A list of resource references that contain
+;TI"  `@real_resource`.
+;TI"&@example A normal contained type
+;TI"L  status.containment_path #=> ["Stage[main]", "Myclass", "Exec[date]"]
+;TI"-@example A whit associated with a class
+;TI"C  status.containment_path #=> ["Whit[Admissible_class[Main]]"];T:@format0:
+@fileI""lib/puppet/resource/status.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Resource::Resource::Status;TcRDoc::NormalClass0

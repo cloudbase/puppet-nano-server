@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"parent:ETI"Puppet::Parameter#parent;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"R@comment LAK 2007-05-09: Keep the @parent around for backward compatibility. ;TI"i@return [Puppet::Parameter] A reference to the parameter's parent kept for backwards compatibility. ;TI"@api private;T:
+@fileI"lib/puppet/parameter.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Puppet::Parameter;TcRDoc::NormalClass0

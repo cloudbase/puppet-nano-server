@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"ds_path:ETI"+NameService::DirectoryService::ds_path;TI"W;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"9JJM: This allows us to pass information when calling;To:RDoc::Markup::Verbatim;	[I"    Puppet::Type.type
+;TI"Re.g. Puppet::Type.type(:user).provide :directoryservice, :ds_path => "Users"
+;TI"7This is referenced in the get_ds_path class method;T:@format0:
+@fileI"8lib/puppet/provider/nameservice/directoryservice.rb;T:0@omit_headings_from_table_of_contents_below0T@I""NameService::DirectoryService;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"shouldorig:ETI" Puppet::Property#shouldorig;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"WReturns the original wanted value(s) _(should)_ unprocessed by munging/unmunging. ;TI"=The original values are set by {#value=} or {#should=}. ;TI"@return (see #should);T:
+@fileI"lib/puppet/property.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Puppet::Property;TcRDoc::NormalClass0

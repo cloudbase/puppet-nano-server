@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"loaders:ETI"%Puppet::Parser::Compiler#loaders;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"-Access to the configured loaders for 4x ;TI"D@return [Puppet::Pops::Loader::Loaders] the configured loaders ;TI"@api private;T:
+@fileI""lib/puppet/parser/compiler.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Puppet::Parser::Compiler;TcRDoc::NormalClass0

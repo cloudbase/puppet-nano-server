@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"documentation:ETI"?Puppet::Pops::Adapters::DocumentationAdapter#documentation;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"A@return [String] The documentation associated with an object;T:
+@fileI" lib/puppet/pops/adapters.rb;T:0@omit_headings_from_table_of_contents_below0F@I"1Puppet::Pops::Adapters::DocumentationAdapter;TcRDoc::NormalClass0

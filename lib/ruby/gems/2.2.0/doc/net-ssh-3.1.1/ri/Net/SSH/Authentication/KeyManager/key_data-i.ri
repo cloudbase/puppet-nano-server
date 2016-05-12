@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"key_data:ETI"2Net::SSH::Authentication::KeyManager#key_data;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"4The list of user key data that will be examined;T:
+@fileI".lib/net/ssh/authentication/key_manager.rb;T:0@omit_headings_from_table_of_contents_below0F@I")Net::SSH::Authentication::KeyManager;TcRDoc::NormalClass0

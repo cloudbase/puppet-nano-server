@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"remote_id:ETI",Net::SSH::Connection::Channel#remote_id;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"AThe remote id for this channel, assigned by the remote host.;T:
+@fileI"&lib/net/ssh/connection/channel.rb;T:0@omit_headings_from_table_of_contents_below0F@I""Net::SSH::Connection::Channel;TcRDoc::NormalClass0

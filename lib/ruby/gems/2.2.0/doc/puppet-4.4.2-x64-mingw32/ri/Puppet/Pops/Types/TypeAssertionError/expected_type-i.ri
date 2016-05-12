@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"expected_type:ETI":Puppet::Pops::Types::TypeAssertionError#expected_type;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"Returns the expected type ;TI"%@return [PAnyType] expected type;T:
+@fileI"2lib/puppet/pops/types/type_assertion_error.rb;T:0@omit_headings_from_table_of_contents_below0F@I",Puppet::Pops::Types::TypeAssertionError;TcRDoc::NormalClass0

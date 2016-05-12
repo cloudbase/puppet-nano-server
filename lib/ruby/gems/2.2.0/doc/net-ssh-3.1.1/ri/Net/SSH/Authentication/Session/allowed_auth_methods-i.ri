@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"allowed_auth_methods:ETI";Net::SSH::Authentication::Session#allowed_auth_methods;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"8the list of authentication methods that are allowed;T:
+@fileI"*lib/net/ssh/authentication/session.rb;T:0@omit_headings_from_table_of_contents_below0F@I"&Net::SSH::Authentication::Session;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"environment:ETI"/Puppet::Network::Rights::Right#environment;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"LOverriding Object#methods sucks for debugging. If we're in here in the ;TI"5future, it would be nice to rename Right#methods;T:
+@fileI"!lib/puppet/network/rights.rb;T:0@omit_headings_from_table_of_contents_below0F@I"#Puppet::Network::Rights::Right;TcRDoc::NormalClass0

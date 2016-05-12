@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"properties:ETI"-Net::SSH::Connection::Session#properties;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"OThe collection of custom properties for this instance. (See #[] and #[]=).;T:
+@fileI"&lib/net/ssh/connection/session.rb;T:0@omit_headings_from_table_of_contents_below0F@I""Net::SSH::Connection::Session;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	line:ETI"$Resource::Resource::Status#line;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@!attribute [rw] line;To:RDoc::Markup::Verbatim;	[I"V@return [Integer] The line number in the file where `@real_resource` was defined.;T:@format0:
+@fileI""lib/puppet/resource/status.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Resource::Resource::Status;TcRDoc::NormalClass0

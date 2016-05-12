@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"loader:ETI"Puppet::Interface#loader;TI"R;T:privateo:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"*The autoloader instance for the face ;TI"&@return [Puppet::Util::Autoload] ;TI"@api private;T:
+@fileI"lib/puppet/interface.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Puppet::Interface;TcRDoc::NormalClass0

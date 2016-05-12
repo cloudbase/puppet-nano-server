@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"native_group:ETI"4Puppet::Util::Windows::ADSI::Group#native_group;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"<https://msdn.microsoft.com/en-us/library/aa706021.aspx ;TI"IADsGroup interface;T:
+@fileI"$lib/puppet/util/windows/adsi.rb;T:0@omit_headings_from_table_of_contents_below0F@I"'Puppet::Util::Windows::ADSI::Group;TcRDoc::NormalClass0

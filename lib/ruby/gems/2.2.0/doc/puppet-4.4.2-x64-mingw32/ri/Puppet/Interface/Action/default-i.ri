@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"default:ETI"&Puppet::Interface::Action#default;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"5Whether this is the default action for the face ;TI"@return [Boolean] ;TI"@api private;T:
+@fileI"#lib/puppet/interface/action.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Puppet::Interface::Action;TcRDoc::NormalClass0

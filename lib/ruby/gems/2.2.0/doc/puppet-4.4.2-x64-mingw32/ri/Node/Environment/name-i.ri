@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"	name:ETI"Node::Environment#name;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@!attribute [r] name;To:RDoc::Markup::Verbatim;	[I"@api public
+;TI"M@return [Symbol] the human readable environment name that serves as the
+;TI"  environment identifier;T:@format0:
+@fileI"#lib/puppet/node/environment.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Node::Environment;TcRDoc::NormalClass0

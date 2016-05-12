@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"output:ETI"Pry::Command#output;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"XProperties of one execution of a command (passed by {Pry#run_command} as a hash of ;TI"*context and expanded in `#initialize`;T:
+@fileI"lib/pry/command.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Pry::Command;TcRDoc::NormalClass0

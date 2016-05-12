@@ -1,0 +1,11 @@
+* CHANGES
+* MANIFEST
+* README
+* Rakefile
+* win32-security.gemspec
+* certs/djberg96_pub.pem
+* lib/win32-security.rb
+* lib/win32/security.rb
+* lib/win32/security/sid.rb
+* test/test_security.rb
+* test/test_sid.rb

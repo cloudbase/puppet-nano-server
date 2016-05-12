@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"cached_catalog_status:ETI"!Report#cached_catalog_status;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"[Whether a cached catalog was used in the run, and if so, the reason that it was used. ;TI"M@return [String] One of the values: 'not_used', 'explicitly_requested', ;TI"or 'on_failure';T:
+@fileI"%lib/puppet/transaction/report.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Report;FcRDoc::NormalClass0

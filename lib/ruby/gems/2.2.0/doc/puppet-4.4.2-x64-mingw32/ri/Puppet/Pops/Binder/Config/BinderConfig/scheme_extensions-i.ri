@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"scheme_extensions:ETI"APuppet::Pops::Binder::Config::BinderConfig#scheme_extensions;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"b@return <Hash<String, String>] ({}) optional mapping of bindings-scheme to handler class name;T:
+@fileI"3lib/puppet/pops/binder/config/binder_config.rb;T:0@omit_headings_from_table_of_contents_below0F@I"/Puppet::Pops::Binder::Config::BinderConfig;TcRDoc::NormalClass0

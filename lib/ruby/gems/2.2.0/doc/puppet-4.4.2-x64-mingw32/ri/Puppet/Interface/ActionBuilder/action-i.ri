@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"action:ETI",Puppet::Interface::ActionBuilder#action;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"#The action under construction ;TI")@return [Puppet::Interface::Action] ;TI"@api private;T:
+@fileI"+lib/puppet/interface/action_builder.rb;T:0@omit_headings_from_table_of_contents_below0F@I"%Puppet::Interface::ActionBuilder;TcRDoc::NormalClass0

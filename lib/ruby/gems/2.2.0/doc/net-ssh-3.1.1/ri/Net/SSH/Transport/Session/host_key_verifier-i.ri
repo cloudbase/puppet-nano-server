@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"host_key_verifier:ETI"3Net::SSH::Transport::Session#host_key_verifier;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"KThe host-key verifier object used to verify host keys, to ensure that ;TI")the connection is not being spoofed.;T:
+@fileI"%lib/net/ssh/transport/session.rb;T:0@omit_headings_from_table_of_contents_below0F@I"!Net::SSH::Transport::Session;TcRDoc::NormalClass0

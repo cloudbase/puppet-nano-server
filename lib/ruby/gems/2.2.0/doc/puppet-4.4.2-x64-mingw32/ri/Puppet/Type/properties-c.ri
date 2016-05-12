@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"properties:ETI"Puppet::Type::properties;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"^@return [Array<Puppet::Property>] The list of declared properties for the resource type. ;TI"QThe returned lists contains instances if Puppet::Property or its subclasses.;T:
+@fileI"lib/puppet/type.rb;T:0@omit_headings_from_table_of_contents_below0T@I"Puppet::Type;TcRDoc::NormalClass0

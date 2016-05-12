@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"acl:ETI"Win32::Security::ACL#acl;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I""The underlying ACL structure.;T:
+@fileI"lib/win32/security/acl.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Win32::Security::ACL;TcRDoc::NormalClass0

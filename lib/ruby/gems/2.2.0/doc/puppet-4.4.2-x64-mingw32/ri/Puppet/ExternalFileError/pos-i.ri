@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"pos:ETI""Puppet::ExternalFileError#pos;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"NThis module implements logging with a filename and line number. Use this ;TI"Jfor errors that need to report a location in a non-ruby file that we ;TI"parse.;T:
+@fileI"lib/puppet/error.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Puppet::ExternalFileError;TcRDoc::NormalModule0

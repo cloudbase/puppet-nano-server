@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	file:ETI"%Pry::Command::CodeCollector#file;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"4The name of the explicitly given file (if any).;T:
+@fileI"'lib/pry/commands/code_collector.rb;T:0@omit_headings_from_table_of_contents_below0F@I" Pry::Command::CodeCollector;TcRDoc::NormalClass0

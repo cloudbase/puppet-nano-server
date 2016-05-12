@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"from_cache:ETI"Catalog#from_cache;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"FWhether this catalog was retrieved from the cache, which affects ;TI"*whether it is written back out again.;T:
+@fileI"#lib/puppet/resource/catalog.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Catalog;FcRDoc::NormalClass0

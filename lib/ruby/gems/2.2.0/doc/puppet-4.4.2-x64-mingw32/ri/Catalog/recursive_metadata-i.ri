@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"recursive_metadata:ETI"Catalog#recursive_metadata;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"0Inlined file metadata for recursive search ;TI"5A hash of title => { source => [metadata, ...] };T:
+@fileI"#lib/puppet/resource/catalog.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Catalog;FcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"session:ETI"'Net::SSH::Service::Forward#session;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"IThe underlying connection service instance that the port-forwarding ;TI"services employ.;T:
+@fileI"#lib/net/ssh/service/forward.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Net::SSH::Service::Forward;TcRDoc::NormalClass0

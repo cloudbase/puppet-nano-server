@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"self_refresh:ETI"Puppet::Type::self_refresh;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"U@return [Boolean] true if the type should send itself a refresh event on change.;T:
+@fileI"lib/puppet/type.rb;T:0@omit_headings_from_table_of_contents_below0T@I"Puppet::Type;TcRDoc::NormalClass0

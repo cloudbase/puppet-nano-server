@@ -1,0 +1,3 @@
+U:RDoc::Attr[iI"key_manager:ETI"<Net::SSH::Authentication::Methods::Abstract#key_manager;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"IThe key manager object. Not all authentication methods will require ;TI"
+this.;T:
+@fileI"3lib/net/ssh/authentication/methods/abstract.rb;T:0@omit_headings_from_table_of_contents_below0F@I"0Net::SSH::Authentication::Methods::Abstract;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"environment:ETI"Report#environment;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"0The name of the environment the host is in ;TI"*@return [String] the environment name;T:
+@fileI"%lib/puppet/transaction/report.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Report;FcRDoc::NormalClass0

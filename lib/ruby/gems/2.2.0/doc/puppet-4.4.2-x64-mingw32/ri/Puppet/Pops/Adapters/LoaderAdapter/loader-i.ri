@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"loader:ETI"1Puppet::Pops::Adapters::LoaderAdapter#loader;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"(@return [Loader::Loader] the loader;T:
+@fileI" lib/puppet/pops/adapters.rb;T:0@omit_headings_from_table_of_contents_below0F@I"*Puppet::Pops::Adapters::LoaderAdapter;TcRDoc::NormalClass0

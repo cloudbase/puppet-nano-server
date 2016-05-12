@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"file_collection:ETI":Puppet::Util::IniConfig::PhysicalFile#file_collection;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"%@!attribute [rw] file_collection;To:RDoc::Markup::Verbatim;	[I"6@return [Puppet::Util::IniConfig::FileCollection];T:@format0:
+@fileI"lib/puppet/util/inifile.rb;T:0@omit_headings_from_table_of_contents_below0F@I"*Puppet::Util::IniConfig::PhysicalFile;TcRDoc::NormalClass0

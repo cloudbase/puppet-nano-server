@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	open:ETI"Plist::Listener#open;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I""include REXML::StreamListener;T:
+@fileI"$lib/facter/util/plist/parser.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Plist::Listener;TcRDoc::NormalClass0

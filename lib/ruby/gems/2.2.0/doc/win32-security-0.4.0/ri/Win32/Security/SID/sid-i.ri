@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"sid:ETI"Win32::Security::SID#sid;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I""The binary SID object itself.;T:
+@fileI"lib/win32/security/sid.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Win32::Security::SID;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"arg_names:ETI"*Puppet::Pops::Issues::Issue#arg_names;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"]Names that must be bound in an occurrence of the issue to be able to produce a message. ;TI"oThese are the names in addition to requirements stipulated by the Issue formatter contract; i.e. :label`, ;TI"and `:semantic`.;T:
+@fileI"lib/puppet/pops/issues.rb;T:0@omit_headings_from_table_of_contents_below0F@I" Puppet::Pops::Issues::Issue;TcRDoc::NormalClass0

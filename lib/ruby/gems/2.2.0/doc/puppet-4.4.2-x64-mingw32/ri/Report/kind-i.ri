@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	kind:ETI"Report#kind;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"]The 'kind' of report is the name of operation that triggered the report to be produced. ;TI"Typically "apply". ;TI"X@return [String] the kind of operation that triggered the generation of the report.;T:
+@fileI"%lib/puppet/transaction/report.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Report;FcRDoc::NormalClass0

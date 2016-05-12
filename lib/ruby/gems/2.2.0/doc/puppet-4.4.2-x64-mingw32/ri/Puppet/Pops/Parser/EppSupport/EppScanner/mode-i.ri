@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	mode:ETI"6Puppet::Pops::Parser::EppSupport::EppScanner#mode;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"(The resulting mode after the scan. ;TI"hThe mode is one of `:text` (the initial mode), `:epp` embedded code (no output), `:expr` (embedded ;TI"expression), or `:error`;T:
+@fileI"*lib/puppet/pops/parser/epp_support.rb;T:0@omit_headings_from_table_of_contents_below0F@I"1Puppet::Pops::Parser::EppSupport::EppScanner;TcRDoc::NormalClass0

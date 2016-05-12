@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"parenttype:ETI"Puppet::Type::parenttype;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"XThe reference to a parent type for the parameter `:provider` used to get a list of ;TI"*providers for documentation purposes.;T:
+@fileI"lib/puppet/type.rb;T:0@omit_headings_from_table_of_contents_below0T@I"Puppet::Type;TcRDoc::NormalClass0

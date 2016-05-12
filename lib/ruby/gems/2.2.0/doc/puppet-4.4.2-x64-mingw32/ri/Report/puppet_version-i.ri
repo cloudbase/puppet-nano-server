@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"puppet_version:ETI"Report#puppet_version;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"9@return [String] The Puppet version in String form. ;TI"@see Puppet::version();T:
+@fileI"%lib/puppet/transaction/report.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Report;FcRDoc::NormalClass0

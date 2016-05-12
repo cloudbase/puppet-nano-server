@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"access_mask:ETI"%Win32::Security::ACE#access_mask;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"BStandard access rights, e.g. GENERIC_READ, GENERIC_WRITE, etc;T:
+@fileI"lib/win32/security/ace.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Win32::Security::ACE;TcRDoc::NormalClass0

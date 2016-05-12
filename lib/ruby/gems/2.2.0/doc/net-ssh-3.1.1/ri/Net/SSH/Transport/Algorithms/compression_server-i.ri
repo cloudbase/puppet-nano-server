@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"compression_server:ETI"7Net::SSH::Transport::Algorithms#compression_server;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"SThe type of compression to use to decompress packets arriving from the server.;T:
+@fileI"(lib/net/ssh/transport/algorithms.rb;T:0@omit_headings_from_table_of_contents_below0F@I"$Net::SSH::Transport::Algorithms;TcRDoc::NormalClass0

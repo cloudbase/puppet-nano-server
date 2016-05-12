@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"value_collection:ETI"(Puppet::Parameter::value_collection;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"t@return [Puppet::Parameter::ValueCollection] The set of valid values (or an empty set that accepts any value). ;TI"@api private;T:
+@fileI"lib/puppet/parameter.rb;T:0@omit_headings_from_table_of_contents_below0T@I"Puppet::Parameter;TcRDoc::NormalClass0

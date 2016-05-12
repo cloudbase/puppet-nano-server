@@ -1,0 +1,17 @@
+U:RDoc::Attr[iI"doc:ETI"Puppet::Provider::doc;TI"W;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@!attribute [r] doc;To:RDoc::Markup::Verbatim;	[I"gThe (full) documentation for this provider class. The documentation for the provider class itself
+;TI"oshould be set with the DSL method {desc=}. Setting the documentation with with {doc=} has the same effect
+;TI"gas setting it with {desc=} (only the class documentation part is set). In essence this means that
+;TI"\there is no getter for the class documentation part (since the getter returns the full
+;TI"<documentation when there are additional contributors).
+;TI"
+;TI"G@return [String] Returns the full documentation for the provider.
+;T:@format0o;
+;	[I"@see Puppet::Utils::Docs ;TI"g@comment This is puzzling ... a write only doc attribute??? The generated setter never seems to be;To;;	[I"kused, instead the instance variable @doc is set in the `desc` method. This seems wrong. It is instead
+;TI"adocumented as a read only attribute (to get the full documentation). Also see doc below for
+;TI"desc.
+;T;0o;
+;	[I"@!attribute [w] desc;To;;	[	I"\Sets the documentation of this provider class. (The full documentation is read via the
+;TI"{doc} attribute).
+;TI"
+;TI"@dsl type;T;0:
+@fileI"lib/puppet/provider.rb;T:0@omit_headings_from_table_of_contents_below0T@*I"Puppet::Provider;TcRDoc::NormalClass0

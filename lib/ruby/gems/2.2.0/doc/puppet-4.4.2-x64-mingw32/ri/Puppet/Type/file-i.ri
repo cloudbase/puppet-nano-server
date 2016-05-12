@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	file:ETI"Puppet::Type#file;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"C@return [String] The file from which this type originates from;T:
+@fileI"lib/puppet/type.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Puppet::Type;TcRDoc::NormalClass0

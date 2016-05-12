@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10"
+         xmlns:f="http://schemas.microsoft.com/appx/manifest/foundation/windows10"
+         xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10"
+         xmlns:serverpreview="http://schemas.microsoft.com/appx/manifest/serverpreview/windows10"
+         IgnorableNamespaces="f uap serverpreview">
+
+  <Identity Name="Puppet"
+            ProcessorArchitecture="x64"
+            Publisher="CN=Cloudbase Solutions Srl, O=Cloudbase Solutions Srl, L=Timisoara, S=Timis, C=RO"
+            Version="1.0.0.0"
+            ResourceId="NorthAmerica" />
+
+  <Resources>
+    <Resource Language="en-us"/>
+  </Resources>
+
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Server" MinVersion="10.0.0.0" MaxVersionTested="12.0.0.0"/>
+  </Dependencies>
+
+  <Properties>
+    <DisplayName>Puppet</DisplayName>
+    <PublisherDisplayName>Cloudbase Solutions</PublisherDisplayName>
+    <Description>Puppet Agent</Description>
+    <Logo>logo.png</Logo>
+    <Framework>false</Framework>
+    <ResourcePackage>false</ResourcePackage>
+  </Properties>
+
+  <Applications>
+    <Application Id="Puppet">
+      <uap:VisualElements AppListEntry="none" DisplayName="Puppet" Square150x150Logo="logo.png" Square44x44Logo="logo.png" Description="Puppet" BackgroundColor="#777777"/>
+      <Extensions>
+        <serverpreview:Extension Category="windows.ntServices">
+          <serverpreview:NTServices>
+            <serverpreview:NTService
+                  Name="puppet"
+                  Executable="bin\ruby.exe"
+                  StartupType="auto"
+                  StartAccount="localSystem"
+                  DisplayName="puppet"
+                  StartParameters ="-rubygems service\daemon.rb"
+                  FailureRecoveryAction ="restartService"
+                  >
+            </serverpreview:NTService>
+          </serverpreview:NTServices>
+        </serverpreview:Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+</Package>

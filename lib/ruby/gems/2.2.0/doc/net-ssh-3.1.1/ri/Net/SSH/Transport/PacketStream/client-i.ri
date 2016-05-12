@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"client:ETI"-Net::SSH::Transport::PacketStream#client;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"NThe client state object, which encapsulates the algorithms used to build ;TI"#packets to send to the server.;T:
+@fileI"+lib/net/ssh/transport/packet_stream.rb;T:0@omit_headings_from_table_of_contents_below0F@I"&Net::SSH::Transport::PacketStream;TcRDoc::NormalModule0

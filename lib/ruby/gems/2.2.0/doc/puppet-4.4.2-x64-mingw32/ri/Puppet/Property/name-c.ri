@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"	name:ETI"Puppet::Property::name;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"V@return [Symbol] The name of the property as given when the property was created.;T:
+@fileI"lib/puppet/property.rb;T:0@omit_headings_from_table_of_contents_below0T@I"Puppet::Property;TcRDoc::NormalClass0

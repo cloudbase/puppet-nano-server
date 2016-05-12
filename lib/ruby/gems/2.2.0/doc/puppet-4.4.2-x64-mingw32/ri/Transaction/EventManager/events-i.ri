@@ -1,0 +1,5 @@
+U:RDoc::Attr[iI"events:ETI"%Transaction::EventManager#events;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"@!attribute [r] events;To:RDoc::Markup::Verbatim;	[	I"X@todo Determine if this instance variable is used for anything aside from testing.
+;TI"O@return [Array<Puppet::Transaction::Events>] A list of events that can be
+;TI"K  handled by the target resouce. Events that cannot be handled by the
+;TI")  target resource will be discarded.;T:@format0:
+@fileI",lib/puppet/transaction/event_manager.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Transaction::EventManager;TcRDoc::NormalClass0

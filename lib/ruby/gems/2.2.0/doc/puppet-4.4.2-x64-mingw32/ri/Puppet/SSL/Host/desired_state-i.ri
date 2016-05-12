@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"desired_state:ETI"$Puppet::SSL::Host#desired_state;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"UThis accessor is used in instances for indirector requests to hold desired state;T:
+@fileI"lib/puppet/ssl/host.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Puppet::SSL::Host;TcRDoc::NormalClass0

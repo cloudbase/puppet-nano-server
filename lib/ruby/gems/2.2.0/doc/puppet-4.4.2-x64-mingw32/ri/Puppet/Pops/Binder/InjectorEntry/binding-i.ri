@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"binding:ETI"0Puppet::Pops::Binder::InjectorEntry#binding;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"R@return [Puppet::Pops::Binder::Bindings::Binding] The binding for this entry ;TI"@api public;T:
+@fileI"-lib/puppet/pops/binder/injector_entry.rb;T:0@omit_headings_from_table_of_contents_below0F@I"(Puppet::Pops::Binder::InjectorEntry;TcRDoc::NormalClass0

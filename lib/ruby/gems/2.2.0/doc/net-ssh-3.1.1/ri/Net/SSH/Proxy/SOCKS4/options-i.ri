@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"options:ETI"$Net::SSH::Proxy::SOCKS4#options;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"GThe additional options that were given to the proxy's constructor.;T:
+@fileI" lib/net/ssh/proxy/socks4.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Net::SSH::Proxy::SOCKS4;TcRDoc::NormalClass0

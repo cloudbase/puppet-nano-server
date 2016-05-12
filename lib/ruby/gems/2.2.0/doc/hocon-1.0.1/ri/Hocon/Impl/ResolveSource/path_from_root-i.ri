@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"path_from_root:ETI".Hocon::Impl::ResolveSource#path_from_root;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"T'path_from_root' is used for knowing the chain of parents we used to get here. ;TI"Cnull if we should assume we are not a descendant of the root. ;TI":the root itself should be a node in this if non-null.;T:
+@fileI"%lib/hocon/impl/resolve_source.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Hocon::Impl::ResolveSource;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"select_for_write:ETI"<Net::SSH::Test::Extensions::BufferedIo#select_for_write;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"QSet this to +true+ if you want the IO to pretend to be available for writing;T:
+@fileI"#lib/net/ssh/test/extensions.rb;T:0@omit_headings_from_table_of_contents_below0F@I"+Net::SSH::Test::Extensions::BufferedIo;TcRDoc::NormalModule0

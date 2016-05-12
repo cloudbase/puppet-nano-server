@@ -1,0 +1,42 @@
+= Description
+  A security library for MS Windows that allows you to open existing or
+  create new security identifiers (SID's).
+
+= Synopsis
+  require 'win32/security'
+  include Win32
+   
+  sid = Security::SID.open('some_user')
+   
+  sid.valid? # => true
+  sid.to_s   # => "S-1-5-21-3733855671-1102023144-2002619019-1000"
+  sid.length # => 28
+  sid.sid    # => "\001\005\000\000\000\000\000\005\025\000\000\000..."
+   
+== Future Plans
+  Create classes that encapsulate ACL's, ACE's, Token's, etc.
+   
+  There are some unfinished versions of the ACL and ACE classes in the
+  repo if you're interested in taking a look.
+   
+== Known Issues
+  None that I'm aware of. Please file any bug reports on the project page at:
+
+  https://github.com/djberg96/win32-security
+
+== Contributions
+  Although this library is free, please consider having your company
+  setup a gittip if used by your company professionally.
+
+  http://www.gittip.com/djberg96/
+
+== License
+  Artistic 2.0
+    
+== Copyright
+  (C) 2003-2014 Daniel J. Berger
+  All Rights Reserved
+    
+== Authors
+  Daniel J. Berger
+  Park Heesob

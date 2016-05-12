@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"catalog_uuid:ETI"Report#catalog_uuid;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"aA master generated catalog uuid, useful for connecting a single catalog to multiple reports.;T:
+@fileI"%lib/puppet/transaction/report.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Report;FcRDoc::NormalClass0

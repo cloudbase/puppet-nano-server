@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"label_provider:ETI"@Puppet::Pops::Validation::DiagnosticProducer#label_provider;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"<A producer of labels for objects involved in the issue ;TI"@return [LabelProvider];T:
+@fileI""lib/puppet/pops/validation.rb;T:0@omit_headings_from_table_of_contents_below0F@I"1Puppet::Pops::Validation::DiagnosticProducer;TcRDoc::NormalClass0

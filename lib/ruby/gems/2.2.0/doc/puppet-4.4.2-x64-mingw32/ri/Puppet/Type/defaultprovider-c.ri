@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"defaultprovider:ETI""Puppet::Type::defaultprovider;TI"W;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"l@todo Don't know if this is a name, or a reference to a Provider instance (now marked up as an instance;To:RDoc::Markup::Verbatim;	[I"of Provider.
+;T:@format0o;
+;	[I"a@return [Puppet::Provider, nil] The default provider for this type, or nil if non is defines;T:
+@fileI"lib/puppet/type.rb;T:0@omit_headings_from_table_of_contents_below0T@I"Puppet::Type;TcRDoc::NormalClass0

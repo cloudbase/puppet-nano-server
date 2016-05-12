@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"flatten:ETI"DPuppet::Pops::Binder::Producers::ArrayMultibindProducer#flatten;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"‚@return [Boolean, Integer] If result should be flattened (true), or not (false), or flattened to given level (0 = none, -1 = all) ;TI"@api public;T:
+@fileI"(lib/puppet/pops/binder/producers.rb;T:0@omit_headings_from_table_of_contents_below0F@I"<Puppet::Pops::Binder::Producers::ArrayMultibindProducer;TcRDoc::NormalClass0

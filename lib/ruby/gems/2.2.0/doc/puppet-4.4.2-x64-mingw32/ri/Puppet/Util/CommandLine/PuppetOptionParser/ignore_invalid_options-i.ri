@@ -1,0 +1,5 @@
+U:RDoc::Attr[iI"ignore_invalid_options:ETI"IPuppet::Util::CommandLine::PuppetOptionParser#ignore_invalid_options;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"SThis parameter, if set, will tell the underlying option parser not to throw an;To:RDoc::Markup::Verbatim;	[	I"Wexception if we pass it options that weren't explicitly registered.  We need this
+;TI"Zcapability because we need to be able to pass all of the command-line options before
+;TI"Swe know which application/face they are going to be running, but the app/face
+;TI"Tmay specify additional command-line arguments that are valid for that app/face.;T:@format0:
+@fileI"9lib/puppet/util/command_line/puppet_option_parser.rb;T:0@omit_headings_from_table_of_contents_below0F@I"2Puppet::Util::CommandLine::PuppetOptionParser;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"version_info:ETI"*RGen::Util::FileCacheMap#version_info;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"Ioptional program version info to be associated with the cache files ;TI"Eif the program version changes, cached data will also be invalid;T:
+@fileI";lib/puppet/vendor/rgen/lib/rgen/util/file_cache_map.rb;T:0@omit_headings_from_table_of_contents_below0F@I"RGen::Util::FileCacheMap;TcRDoc::NormalClass0

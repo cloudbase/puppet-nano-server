@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"transaction_uuid:ETI"Report#transaction_uuid;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"SAn agent generated transaction uuid, useful for connecting catalog and report ;TI"@return [String] uuid;T:
+@fileI"%lib/puppet/transaction/report.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Report;FcRDoc::NormalClass0

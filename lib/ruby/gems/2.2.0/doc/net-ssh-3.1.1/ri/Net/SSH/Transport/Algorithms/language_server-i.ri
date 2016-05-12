@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"language_server:ETI"4Net::SSH::Transport::Algorithms#language_server;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"EThe language that will be used in messages sent from the server.;T:
+@fileI"(lib/net/ssh/transport/algorithms.rb;T:0@omit_headings_from_table_of_contents_below0F@I"$Net::SSH::Transport::Algorithms;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"default:ETI"Puppet::Parameter::default;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"n@return [Object] The default value of the parameter as determined by the {defaultto} method, or nil if no;To:RDoc::Markup::Verbatim;	[I"default has been set.;T:@format0:
+@fileI"lib/puppet/parameter.rb;T:0@omit_headings_from_table_of_contents_below0T@I"Puppet::Parameter;TcRDoc::NormalClass0

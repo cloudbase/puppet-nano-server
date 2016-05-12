@@ -1,0 +1,17 @@
+U:RDoc::Attr[iI"required_features:ETI")Puppet::Parameter::required_features;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"`@comment This somewhat odd documentation construct is because the getter and setter are not;To:RDoc::Markup::Verbatim;	[
+I"borthogonal; the setter uses varargs and this confuses yard. To overcome the problem both the
+;TI"bgetter and the setter are documented here. If this issues is fixed, a todo will be displayed
+;TI"Mfor the setter method, and the setter documentation can be moved there.
+;TI"cSince the attribute is actually RW it should  perhaps instead just be implemented as a setter
+;TI"8and a getter method (and no attr_xxx declaration).
+;T:@format0o;
+;	[I"(@!attribute [rw] required_features ;TI"f@return [Array<Symbol>] The names of the _provider features_ required for this parameter to work.;To;;	[I";the returned names are always all lower case symbols.
+;T;0o;
+;	[I" @overload required_features;To;;	[I"PReturns the required _provider features_ as an array of lower case symbols
+;T;0o;
+;	[I"(@overload required_features=(*args);To;;	[I"K@param *args [Symbol] one or more names of required provider features
+;TI"aSets the required_provider_features_ from one or more values, or array. The given arguments
+;TI"&are flattened, and internalized.
+;T;0o;
+;	[I"@api public ;TI"@dsl type;T:
+@fileI"lib/puppet/parameter.rb;T:0@omit_headings_from_table_of_contents_below0T@/I"Puppet::Parameter;TcRDoc::NormalClass0

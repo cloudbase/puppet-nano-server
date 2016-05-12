@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"ace_type:ETI""Win32::Security::ACE#ace_type;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"OThe ACE type, e.g. ACCESS_ALLOWED, ACCESS_DENIED, etc. This is an integer.;T:
+@fileI"lib/win32/security/ace.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Win32::Security::ACE;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"for_binary:ETI"Puppet::Confine#for_binary;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"AMark that this confine is used for testing binary existence.;T:
+@fileI"lib/puppet/confine.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Puppet::Confine;TcRDoc::NormalClass0

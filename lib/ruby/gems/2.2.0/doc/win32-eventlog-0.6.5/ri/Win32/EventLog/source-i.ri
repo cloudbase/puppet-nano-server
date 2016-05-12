@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"source:ETI"Win32::EventLog#source;TI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"?The name of the event log source.  This will typically be ;TI"D'Application', 'System' or 'Security', but could also refer to ;TI"a custom event log source.;T:
+@fileI"lib/win32/eventlog.rb;T:0@omit_headings_from_table_of_contents_below0F@I"Win32::EventLog;TcRDoc::NormalClass0
