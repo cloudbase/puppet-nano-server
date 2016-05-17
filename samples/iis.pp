@@ -17,7 +17,7 @@ file { 'c:\config_http_platform_handler.ps1':
 ->
 exec { 'config_http_platform_handler':
     command => 'c:\config_http_platform_handler.ps1',
-    unless => 'Import-Module IISAdministration; if(Get-IISConfigSection "system.webServer/globalModules" | Get-IISConfigCollection | where { $_.Attributes["name"].value -eq "httpPlatformHandler" }) { exit 1 }',
+    onlyif => 'Import-Module IISAdministration; if((Get-IISConfigSection "system.webServer/globalModules" | Get-IISConfigCollection) | where { $_.Attributes["name"].value -eq "httpPlatformHandler" }) { exit 1 }',
     provider => powershell,
     require => [File['HttpPlatformHandler.dll'], File['httpplatform_schema.xml']],
 }
@@ -37,7 +37,7 @@ exec { 'expand_aspnet_site':
 ->
 exec { 'create_aspnet_site':
     command => 'Import-module IISAdministration; New-IISSite -Name "AspNet5Demo" -PhysicalPath c:\inetpub\demo\AspNet5Demo\wwwroot -BindingInformation "*:8000:"',
-    unless => 'Import-module IISAdministration; if(!(Get-IISSite -Name "AspNet5Demo")) { exit 1 }',
+    onlyif => 'Import-module IISAdministration; if(Get-IISSite -Name "AspNet5Demo") { exit 1 }',
     provider => powershell,
 }
 
